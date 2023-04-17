@@ -110,7 +110,7 @@ WRITE YOUR CODE BELOW 👇
 }
 
 .featured-article-img {
-    width: 208%;
+    width: 204%;
     /* flex: 1 0 50%; */
 }
 
@@ -128,8 +128,4 @@ WRITE YOUR CODE BELOW 👇
 .second-row {
     grid-column: 1 / -1;
     grid-row: 2 / 3;
-}
-
-@media (min-width: 400px) {
-    
 }
